@@ -43,7 +43,7 @@ BrainRot automates the process of:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/brainrot-app.git
+    git clone https://github.com/JohnMcWhirter10/brainrot-app.git
     cd brainrot-app
     ```
 
